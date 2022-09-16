@@ -1,0 +1,2 @@
+# Astrod
+My Discord Bot
